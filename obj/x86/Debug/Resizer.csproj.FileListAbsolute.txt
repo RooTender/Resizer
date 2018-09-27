@@ -1,0 +1,7 @@
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\bin\Debug\Resizer.exe
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\bin\Debug\Resizer.pdb
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.Form1.resources
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Resizer.Properties.Resources.resources
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Resizer.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Resizer.exe
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Resizer.pdb

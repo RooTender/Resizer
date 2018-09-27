@@ -1,0 +1,14 @@
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\bin\Debug\Sizer.exe
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\bin\Debug\Sizer.pdb
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\obj\x86\Debug\Sizer.Form1.resources
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\obj\x86\Debug\Sizer.Properties.Resources.resources
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\obj\x86\Debug\Sizer.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\obj\x86\Debug\Sizer.exe
+C:\Users\TEMP.VLO30-11.014\AppData\Local\Temporary Projects\Sizer\obj\x86\Debug\Sizer.pdb
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.exe
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.pdb
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.Form1.resources
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.Properties.Resources.resources
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\obj\x86\Debug\Sizer.csproj.GenerateResource.Cache
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\bin\Debug\Sizer.exe
+C:\Users\TEMP.VLO30-11.014\documents\visual studio 2010\Projects\Sizer\Sizer\bin\Debug\Sizer.pdb
